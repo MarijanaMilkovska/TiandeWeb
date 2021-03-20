@@ -1,0 +1,44 @@
+body{
+    background-image: url(877397.jpg);
+      background-position: center top;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      opacity: 0.9;
+  }
+
+/* .pic{
+    background-image: url(123.jpg);
+      background-position: center top;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    padding:10%;
+} */
+#aplicirajbtn{
+    width: 30%;
+    margin-left: 33%;
+    background-color: white;
+    color:black;
+}
+form{
+    width: 70%;
+    margin-left: 25%;
+    color:white;
+    text-align: center;
+}
+.img1{
+    width: 100%;
+    margin-left: 20%;
+}
+.slika1{
+    width:100%;
+    margin-left: 13%;
+    margin-top: 12%;
+}
+.text{
+    margin-left: 5%;
+    margin-top: 3%;
+    color:white;    
+
+}

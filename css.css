@@ -1,0 +1,41 @@
+.slika1{
+    width:100%;
+}
+.vest1{
+    width: 100%;
+}
+.footer{
+    text-align: center;
+    background-color: grey;
+    height: 5vh;
+    font-size: 18px;
+  }
+#sansabtn{
+  color:black;
+  background-color: white;
+}
+#sansabtn a{
+  text-decoration: none;
+  color:black;
+}
+.video{
+  width: 70%;
+  margin-left: 15%;
+  padding: 5%;
+}
+.textaboutvideo h5{
+  width: 60%;
+  margin-left: 20%;
+  color:white
+}
+.nextbutton{
+  width: 60%;
+  margin-left: 20%;
+}
+body{
+  background-image: url(877397.jpg);
+  background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
